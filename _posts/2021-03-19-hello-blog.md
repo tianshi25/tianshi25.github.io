@@ -97,7 +97,7 @@ On the other hand, a few functions of this website is out of date or not suitabl
 
 ## Get your FavIcon
 
-Faveicon is the small image associated with a paticular website. Browser display them as visual remained of the site. 
+Faveicon is the small image associated with a paticular website. Browser display them as visual remind of the site. 
 
 ![image-20210321213939965](https://raw.githubusercontent.com/tianshi25/ImageService/main/image-20210321213939965.png)
 
